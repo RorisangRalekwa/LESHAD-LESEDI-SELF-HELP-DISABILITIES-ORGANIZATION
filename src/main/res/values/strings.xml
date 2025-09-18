@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Molt35App</string>
+    <string name="image_description"></string>
+    <string-array name="assistance_types">
+        <item>Tutoring</item>
+        <item>Babysitting</item>
+        <item>Event Planning</item>
+    </string-array>
+</resources>
